@@ -1,0 +1,113 @@
+#header{
+    width: 100%;
+    height: 200px;
+    background-color: white;
+    text-align: center;
+    padding-top: 60px;
+}
+
+#fixed{
+    width: 100%;
+    height: 50px;
+    color: white;
+    background-color: black;
+    line-height: initial;
+    position: fixed;
+    top: 0;
+    left: 0;
+    text-align: center;
+}
+#fixed li{
+    display: inline;
+    margin: 20px;
+    
+}
+#main2{
+  float: right;
+  width: 300px;
+  padding: 10px;
+}
+#main2 li{
+    color:blue;
+    display: inline;
+}
+#menu{
+    background-color:cornflowerblue;
+    padding: 15px;
+    color: white;
+    left: 0;
+}
+#search{
+    border-radius: 10px;
+    margin-left: 20px;
+}
+.dashed {
+    border-style: dashed;
+    background-color: rgb(247, 185, 160);
+    padding: 10px;
+    width: 1000px;
+}
+
+.desc1 {
+    width: 70%;
+    }
+.desc2 {
+width: 70%;
+}
+.desc3 {
+    width: 70%;
+    }
+.desc4 {
+width: 70%;
+}
+.desc5 {
+    width: 70%;
+    }
+.desc6 {
+width: 70%;
+}
+.desc7 {
+    width: 70%;
+    }
+.desc1 img{
+    float: left;
+    margin: 5px;
+}
+.desc2 img{
+    float: left;
+    margin: 5px;
+}
+.desc3 img{
+    float: left;
+    margin: 5px;
+}   
+.desc4 img{
+    float: left;
+    margin: 5px;
+}
+.desc5 img{
+    float: left;
+    margin: 5px;
+}
+.desc6 img{
+    float: left;
+    margin: 5px;
+}
+.desc7 li{
+    color:blue;
+}
+#menu ul{
+    display: inline;
+}
+
+#footer{
+    width: auto;
+    background-color: black;
+    bottom: 0;
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    padding: 10px;
+}
+span.red{ color: red;}
+span.blue{ color:blue;}
